@@ -1,4 +1,4 @@
-package main
+package goqqtea
 
 import (
 	"encoding/binary"
